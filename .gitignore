@@ -60,6 +60,8 @@ node_modules/
 *.tgz
 
 # Yarn Integrity file
+
+.idea
 .yarn-integrity
 
 # dotenv environment variables file
